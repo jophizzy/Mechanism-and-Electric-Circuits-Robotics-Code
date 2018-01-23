@@ -1,2 +1,2 @@
 # Mechanism-and-Electric-Circuits-Robotics-Code
-ENGI 1040 Course Robotics Competition
+There were two codes used for controlling the robot during the Engineering robot competition and in addition the name of the team was Awesom-O
